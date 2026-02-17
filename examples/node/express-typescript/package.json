@@ -6,7 +6,7 @@
     "dev": "ts-node src/index.ts"
   },
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.22.0"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
